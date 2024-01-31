@@ -1,4 +1,2 @@
-aiohttp
-pyrogram
-python-dotenv
-tgcrypto
+python-decouple
+telethon
