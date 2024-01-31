@@ -1,3 +1,3 @@
-git clone "https://github.com/Myudi422/indez" tgfs
+git clone "https://github.com/Ayush7445/telegram-forwarder_auto" tgfs
 cd tgfs
-python -m WebStreamer
+python3 bot.py
