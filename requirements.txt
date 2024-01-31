@@ -1,5 +1,4 @@
-python-decouple
-telethon
+
 aiohttp
 pyrogram
 python-dotenv
